@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Sebastian Till Braun
-          subtitle: "I am a Professor of Economics at the University of Bayreuth, where I hold the chair for Quantitative Economic History. I work at the intersection of international and regional economics, labor economics, and quantitative economic history."
+          subtitle: "Fielmann Professor for Economics of Global Transformation at [Kiel Institute](https://www.kielinstitut.de/) and [Kiel University](https://www.uni-kiel.de/en/)"
           imageUrl: "pictureneu.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -73,15 +73,15 @@ params:
              # url: tags/
             - name: About
               url: about/
-            - name: Archive
-              url: archive/
+            #- name: Archive
+            #  url: archive/
 
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:sebastian.braun@uni-bayreuth.de
+          url: mailto:sebastian.braun@kielinstitut.de
         #- name: Location
         #  url: location/
         - name: Office Hours
