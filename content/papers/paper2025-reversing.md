@@ -9,10 +9,10 @@ author: ["Paul Berbée", "Sebastian Till Braun", "Richard Franke"]
 status: "published"
 description: "19th-century industrialization is an essential determinant of the pronounced changes in economic prosperity across German regions over the last 100 years." 
 summary: "This paper shows that 19th-century industrialization is an essential determinant of the pronounced changes in economic prosperity across German regions over the last 100 years."
-#cover:
-#    image: "Berbeeetal2025-Fig3.webp"
-#    alt: "Figure title (preferably 1280x720 pixels)"
-#    relative: true
+cover:
+    image: "Berbeeetal2025-Fig3-resized.jpg"
+    alt: "Figure title (preferably 1280x720 pixels)"
+    relative: true
 editPost:
     URL: "https://doi.org/10.1007/s10887-024-09247-x"
     Text: "Journal of Economic Growth"

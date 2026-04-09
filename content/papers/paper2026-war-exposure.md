@@ -8,10 +8,9 @@ tags: ["World War II","labor market careers","war injuries","prisoners of war","
 author: ["Sebastian T. Braun", "Jan Stuhler"]
 status: "accepted"  
 description: "This paper studies the effect of war exposure (displaced, injured, POW) on labor market careers." 
-summary: "This paper studies the effect of war exposure (displaced, injured, POW) on labor market careers, showing that they become apparent only at certain life stages."
+summary: "This paper studies the effects of WWII exposure, including displacement, injury, and captivity, on labor market careers, revealing that these effects often became apparent long after the war's end."
 #cover:
-#    image: "paper_figure.png"
-#    alt: "Figure title (preferably 1280x720 pixels)"
+#    image: "BraunStuhler2026-lifecycle.jpg"
 #    relative: true
 editPost:
     URL: ""
@@ -31,6 +30,23 @@ editPost:
 ##### Abstract:
 
 With 70 million dead, World War II remains the most devastating conflict in history. Among the survivors, millions were displaced, returned maimed from the battlefield, or endured years of captivity. We examine the effects of such war exposures on labor market careers, showing that they often become apparent only at certain life stages. While war injuries reduced employment in old age, former prisoners of war prolonged their time in the workforce before retiring. Many displaced workers, especially women, never returned to employment. These responses align with standard life-cycle theory and thus likely hold relevance for other conflicts.
+
+---
+
+##### Citation
+
+Sebastian T. Braun and Jan Stuhler (2025). "Exposure to World War II and Its Labor Market Consequences over the Life Cycle." *arXiv*: 2303.14486v2 [econ.GN]. https://arxiv.org/abs/2303.14486.
+
+```BibTeX
+@article{Braun-Stuhler-2025,
+title={Exposure to World War II and Its Labor Market Consequences over the Life Cycle}, 
+author = {Sebastian T. Braun and Jan Stuhler},
+doi = {https://arxiv.org/abs/2303.14486},
+      year={2025},
+      eprint={2303.14486},
+      archivePrefix={arXiv},
+      primaryClass={econ.GN}}
+```
 
 ---
 

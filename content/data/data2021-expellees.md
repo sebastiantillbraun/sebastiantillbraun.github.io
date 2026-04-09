@@ -10,9 +10,9 @@ status: "published"
 description: "Database contains county-level information on the number, origin, age, gender, religious denomination and labor force status of expellees in post-war Germany." 
 summary: "The database contains county-level information on the number, origin, age, gender, religious denomination and labor force status of expellees in post-war West Germany."
 cover:
-    #image: "paper_figure.png"
+    image: "expellee-shares-resized.jpg"
     #alt: "Figure title (preferably 1280x720 pixels)"
-    #relative: true
+    relative: true
 editPost:
     URL: "https://doi.org/10.25162/vswg-2021-0017"
     Text: "Vierteljahreszeitschrift für Sozial- und Wirtschaftsgeschichte"
