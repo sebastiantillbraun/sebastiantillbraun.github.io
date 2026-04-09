@@ -1,0 +1,22 @@
+{{- $news := site.Data.news }}
+{{- $limit := .limit | default 0 }}
+{{- $heading := .heading }}
+{{- if $news }}
+{{- if gt $limit 0 }}{{ $news = first $limit $news }}{{ end }}
+<div class="news-section">
+    {{- if $heading }}<p><strong>{{ $heading }}</strong></p>{{ end }}
+    <ul>
+        {{- range $news }}
+        <li>
+            <span style="color: var(--secondary);">{{ .date | time.Format "Jan 2006" }}</span>
+            —
+            {{- if .url }}
+            <a href="{{ .url }}">{{ .text | markdownify }}</a>
+            {{- else }}
+            {{ .text | markdownify }}
+            {{- end }}
+        </li>
+        {{- end }}
+    </ul>
+</div>
+{{- end }}

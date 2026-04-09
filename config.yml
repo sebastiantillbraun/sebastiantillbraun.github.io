@@ -17,16 +17,19 @@ menu:
        #   weight: 5 
         - name: About
           url: about/
-          weight: 5
+          weight: 1
+        - name: News
+          url: /news/
+          weight: 2
         - name: Papers
           url: papers/
-          weight: 2
+          weight: 3
         #- name: In Progress
         #  url: progress/
-          weight: 3
+          weight: 4
         - name: Data
           url: data/
-          weight: 4
+          weight: 5
         #- name: Blog
         #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #  weight: 6
@@ -63,16 +66,18 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            #- name: In Progress
-            #   url: progress/
-            - name: Data
-              url: data/
-            #- name: Tags
-             # url: tags/
             - name: About
               url: about/
+            - name: News
+              url: news/
+            #- name: In Progress
+            #   url: progress/
+            - name: Papers
+              url: papers/
+            #- name: Tags
+             # url: tags/
+            - name: Data
+              url: data/
             #- name: Archive
             #  url: archive/
 
@@ -84,8 +89,8 @@ params:
           url: mailto:sebastian.braun@kielinstitut.de
         #- name: Location
         #  url: location/
-        - name: Office Hours
-          url: https://calendly.com/sebastian-braun/officehours
+        #- name: Office Hours
+        #  url: https://calendly.com/sebastian-braun/officehours
         - name: Google Scholar
           url: https://scholar.google.de/citations?user=ko1Ng4EAAAAJ
         - name: Twitter

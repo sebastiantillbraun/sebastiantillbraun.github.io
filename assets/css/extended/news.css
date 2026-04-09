@@ -1,0 +1,15 @@
+.news-section {
+    font-size: 14px;
+    margin-top: 0.5rem;
+    text-align: left;
+}
+.news-section p {
+    margin-bottom: 0.3rem;
+}
+.news-section ul {
+    margin: 0;
+    padding-left: 1.2em;
+}
+.news-section li {
+    margin-bottom: 0.3rem;
+}
